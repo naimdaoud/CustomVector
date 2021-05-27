@@ -1,2 +1,1 @@
-# Info2206ProjectEx1
-Info2206 Project for 2021 - Problem1 - Vector
+Implement a dynamic ADT list based on arrays called Vector similar to the C++ vector STL.
